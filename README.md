@@ -1,7 +1,7 @@
 ### Hi there I´m JuanDa 👋
 
 
-´´´js 
+```js 
 
 const juanDa-dev = {
 fullName ="Juan David Anzola Quiroga"
