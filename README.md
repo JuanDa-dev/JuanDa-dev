@@ -7,7 +7,7 @@ const juanDa-dev = {
   age = "19" 
   hobby : [Cooking, To learn whatever] 
   code: [JavaScript(Basic), Java(Medium), Python(Medium), CSS3(Medium), HTML(Medium)]
-  technologies : [Git, Github, Node(Basic), Express(Basic), Vue(Basic),]
+  tools : [Git, Github, Node(Basic), Express(Basic), Vue(Basic),]
   metodologies : [Scrum]
 
 } 
