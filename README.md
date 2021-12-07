@@ -15,5 +15,5 @@ const juanDa-dev = {
 ```
 
 ## My recent activities
-- 🔭 I’m currently studying Engineering System and Computer Science on Universidad del Norte 
+- 🔭 I’m currently studying Engineering System and Computer Science at [Universidad del Norte](https://www.uninorte.edu.co) 
 - 🌱 I’m currently learning Python,JavaScript
