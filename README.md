@@ -17,5 +17,5 @@ const juanDa = {
 - 🔭 Currently working on **Data Analysis & Business Intelligence** projects with **Python, SQL, and Power BI**  
 - 🤖 Exploring **Machine Learning** and **Large Language Models (LLMs)** for real-world business solutions  
 - 🔌 Building **process automation flows** with **n8n** and **APIs**  
-- 🌱 Learning more about **Cloud (AWS, Azure)** and **Vector Databases for AI**  
+- 🌱 Learning more about **Cloud (GCP,Azure)** and **Vector Databases for AI**  
 - 📊 Passionate about turning **data into insights** that drive **digital transformation**
